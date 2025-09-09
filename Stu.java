@@ -1,6 +1,6 @@
 public class Stu{
 public void addStu()
 {
-//logic here
+system .ou.println("Welcome to github");
 }
 }
